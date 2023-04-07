@@ -22,4 +22,4 @@ This is a collaborative project written in Java. It uses Princeton University's 
 <img src="https://user-images.githubusercontent.com/26400127/230525232-2565f8f9-22d8-46a7-8bcf-9eff57be6b7d.png" width="550">
 
 ### Known Issues
-Information regarding voltage and current is given by hovering over the circuit node, however, mathematical revisions need to be made.
+Information regarding voltage and current is given by hovering over the circuit node, however, mathematical revisions in the code are needed to display correct values.
